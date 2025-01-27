@@ -6,7 +6,9 @@
   
 ### 1. Player Data Report
    Data from Wyscout. By filtering player positions and age/minutes criteria, we calculate percentile ranks and z-scores for each performance stat, identifies key player strengths, and visualizes their standout attributes.
+   
   - **Key Features**
+
     Filtering: Select player positions and apply filters for age and minutes played.
     Statistical Analysis: Compute percentile and z-scores for each statistic.
     Visualization: Generate bar and radar plots for highlighting a player's best stats.
