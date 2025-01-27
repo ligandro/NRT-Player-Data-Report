@@ -1,5 +1,9 @@
 # NRT-Player-Data-Report
 
+<p align="center">
+  <img width="100%" src="./images/NRT.png"> &nbsp &nbsp
+</p>
+
 # Project Background
  Neurotactic specializes in data-driven football analysis, offering insights for individual players, clubs, and national teams. Our expertise helps optimize performance, strategy, and decision-making by leveraging advanced analytics to unlock the full potential of players and teams. Earlier, we used to make player reports using Tableau and I was tasked with created an automated quick report generator.
 
