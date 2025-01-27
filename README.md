@@ -5,7 +5,7 @@
 - Made using Python and libraries such as Pandas and Matplotlib.
   
 ### 1. Player Data Report
-   Data from Wyscout. By filtering player positions and age/minutes criteria, we calculate percentile ranks and z-scores for each performance stat, identifies key player strengths, and visualizes their standout attributes.
+   Data from Wyscout. Used to identify key player strengths, and visualize their standout attributes.
    
   - **Key Features**
 
@@ -20,6 +20,16 @@
 </p>
 
 ### 2. Player Comparision Report
+
+  Data from Wyscout. Can find player strengths, calculates aggregate statistics, and finds similar players represented by a similarity score. 
+   
+  - **Key Features**
+
+    Statistical Analysis: Compute percentile ranks, z-scores, and aggregate stats using custom-weighted combinations of individual stats.
+    
+    Player Comparison: Use cosine similarity to find players with similar performance profiles.
+    
+    Visualization: Generate table and radar plots for comparision of stats.
    
 <p align="center">
   <img width="100%" src="./images/NR2.png"> &nbsp &nbsp
