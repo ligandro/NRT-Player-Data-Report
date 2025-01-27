@@ -5,7 +5,7 @@
 </p>
 
 # Project Background
- Neurotactic specializes in data-driven football analysis, offering insights for individual players, clubs, and national teams. Our expertise helps optimize performance, strategy, and decision-making by leveraging advanced analytics to unlock the full potential of players and teams. Earlier, we used to make player reports using Tableau which took atleast1-2 days to make. I was tasked with created an quick automated data report generator that can generate the report in 3-4 mins by simply running some code.
+ [Neurotactic](https://x.com/neuroTactic_)   specializes in data-driven football analysis, offering insights for individual players, clubs, and national teams. Our expertise helps optimize performance, strategy, and decision-making by leveraging advanced analytics to unlock the full potential of players and teams. Earlier, we used to make player reports using Tableau which took atleast1-2 days to make. I was tasked with created an quick automated data report generator that can generate the report in 3-4 mins by simply running some code.
 
 # Details
 - Used for ad-hoc analysis as required by our team's player performance analyst.
