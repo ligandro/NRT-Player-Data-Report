@@ -11,9 +11,8 @@
 - Used for ad-hoc analysis as required by our team's player performance analyst.
 - Increased efficiency by reducing the time needed to create reports compared to manually building them in Tableau.
 - Made using Python and libraries such as Pandas and Matplotlib.
-- 
-# Data Structure & Initial Checks
-
+  
+# Data 
 The data used in from Wyscout. It is tabular with multiple columns containing different type of player stats.
 
 ### 1. Player Data Report
