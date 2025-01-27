@@ -10,7 +10,9 @@
   - **Key Features**
 
     Filtering: Select player positions and apply filters for age and minutes played.
+    
     Statistical Analysis: Compute percentile and z-scores for each statistic.
+    
     Visualization: Generate bar and radar plots for highlighting a player's best stats.
    
 <p align="center">
