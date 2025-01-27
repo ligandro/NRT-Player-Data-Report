@@ -1,7 +1,7 @@
 # NRT-Player-Data-Report
 
 <p align="center">
-  <img width="100%" src="./images/NRT.png"> &nbsp &nbsp
+  <img width="40%" src="./images/NRT.png"> &nbsp &nbsp
 </p>
 
 # Project Background
