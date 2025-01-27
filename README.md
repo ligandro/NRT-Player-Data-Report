@@ -1,9 +1,17 @@
 # NRT-Player-Data-Report
-- Developed a automated player data report generator for Neurotatic.
+
+# Project Background
+ Neurotactic specializes in data-driven football analysis, offering insights for individual players, clubs, and national teams. Our expertise helps optimize performance, strategy, and decision-making by leveraging advanced analytics to unlock the full potential of players and teams. Earlier, we used to make player reports using Tableau and I was tasked with created an automated quick report generator.
+
+# Details
 - Used for ad-hoc analysis as required by our team's player performance analyst.
 - Increased efficiency by reducing the time needed to create reports compared to manually building them in Tableau.
 - Made using Python and libraries such as Pandas and Matplotlib.
-  
+- 
+# Data Structure & Initial Checks
+
+The data used in from Wyscout. It is tabular with multiple columns containing different type of player stats.
+
 ### 1. Player Data Report
    Data from Wyscout. Used to identify key player strengths, and visualize their standout attributes.
    
