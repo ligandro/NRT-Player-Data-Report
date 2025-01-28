@@ -16,7 +16,7 @@
 The data used in from Wyscout. It is tabular with multiple columns containing different type of player stats.
 
 # 1. Player Data Report
-   Used to identify key player strengths, and visualize their standout attributes.
+   Used to identify key player strengths, and visualize their standout attributes. 
    
   - **Key Features**
 
@@ -37,11 +37,11 @@ The data used in from Wyscout. It is tabular with multiple columns containing di
    
   - **Key Features**
 
-    Statistical Analysis: Compute percentile ranks, z-scores, and aggregate stats using custom-weighted combinations of individual stats.
+    Statistical Analysis: Compute percentile ranks, z-scores, and aggregate stats using custom-weighted combinations of individual stats. Aggregate stats are calculated differently for each position using different weights. Weights are assigned based on our knowlegde of the game.
     
-    Player Comparison: Use cosine similarity to find players with similar performance profiles.
+    Player Comparison: Use cosine similarity to find players with similar performance profiles. Top 5 similar players are selected.
     
-    Visualization: Generate table and radar plots for comparision of stats.
+    Visualization: Generate table and radar plots for comparision of stats. Table contains the aggregate stats and radar compares the main player and another player from the table. 
    
 <p align="center">
   <img width="100%" src="./images/NR2.png"> &nbsp &nbsp
