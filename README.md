@@ -31,7 +31,7 @@ The data used in from Wyscout. It is tabular with multiple columns containing di
   <img width="100%" src="./images/NR1.png"> &nbsp &nbsp
 </p>
 
-### 2. Player Comparision Report
+# 2. Player Comparision Report
 
   Can find player strengths, calculates aggregate statistics, and finds similar players represented by a similarity score. 
    
